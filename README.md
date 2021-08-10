@@ -40,4 +40,4 @@ val_accuracy              0.646
 test_accuracy             0.643
 ```
 
-In notebook we are dealing with GRU: training model, choosing best epoch, doing some predicions.
+In notebook we are dealing with GRU: training model, choosing best epoch, doing some predictions.
